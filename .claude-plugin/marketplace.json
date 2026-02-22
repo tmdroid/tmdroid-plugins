@@ -1,0 +1,25 @@
+{
+  "name": "tmdroid-plugins",
+  "description": "Custom Claude Code plugins by tmdroid",
+  "owner": {
+    "name": "tmdroid",
+    "url": "https://github.com/tmdroid"
+  },
+  "plugins": [
+    {
+      "name": "claude-rpi",
+      "description": "Research-Plan-Implement: A systematic workflow for AI-assisted software development. Enforces deep codebase research, iterative planning with annotation cycles, and supervised implementation with specialized agents.",
+      "version": "0.1.0",
+      "author": {
+        "name": "tmdroid",
+        "url": "https://github.com/tmdroid"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tmdroid/claude-rpi.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/tmdroid/claude-rpi"
+    }
+  ]
+}
